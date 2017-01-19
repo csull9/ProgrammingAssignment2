@@ -1,9 +1,4 @@
-Fork the GitHub repository containing the stub R files at https://github.com/rdpeng/ProgrammingAssignment2 to create a copy under your own account.
-Clone your forked GitHub repository to your computer so that you can edit the files locally on your own machine.
-Edit the R file contained in the git repository and place your solution in that file (please do not rename the file).
-Commit your completed R file into YOUR git repository and push your git branch to the GitHub repository under your account.
-Submit to Coursera the URL to your GitHub repository that contains the completed R code for the assignment.## Put comments here that give an overall description of what your
-## functions do
+## Finds the inverse of a matrix, sometimes recalling from a cache 
 
 ## Takes a matrix and returns a list to set value of the matrix, get its value
 ## set the value of its inverse, and get the value of its inverse 
